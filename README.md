@@ -1,12 +1,15 @@
-### Hi there 👋 I'm [Fabrizzio!](https://github.com/Fabrizzioxc/Fabrizzioxc)
+### Hola, 👋 Soy [Fabrizzio!](https://github.com/Fabrizzioxc/Fabrizzioxc)
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 
 ## 💻 Desarrollador de Software
 
 Apasionado por crear soluciones útiles con código. Me gusta trabajar tanto en el frontend como en el backend y siempre estoy aprendiendo nuevas tecnologías.
 
----
+<p align="center">
+  <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="100px" />
+</p>
 
-##### Languages I use
+##### 🧠 Lenguajes que uso
 
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
@@ -17,7 +20,7 @@ Apasionado por crear soluciones útiles con código. Me gusta trabajar tanto en 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
 
-##### Some of the technologies I have worked with
+##### 🛠️ Tecnologías que he usado
 
 ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
@@ -30,4 +33,6 @@ Apasionado por crear soluciones útiles con código. Me gusta trabajar tanto en 
 ![ShadCN UI](https://img.shields.io/badge/-ShadCN-222222?style=flat&logo=shadcn&logoColor=white)
 ![Supabase](https://img.shields.io/badge/-Supabase-222222?style=flat&logo=supabase&logoColor=3ECF8E)
 
-<br/>
+<p align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="80" />
+</p>
