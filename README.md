@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm [Fabrizzio!](https://github.com/Fabrizzioxc/Fabrizzioxc)
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
+![Coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 ## 💻 Desarrollador de Software
 
