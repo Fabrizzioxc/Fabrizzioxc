@@ -2,9 +2,7 @@
 
 ## 💻 Desarrollador de Software
 
-Apasionado por crear soluciones útiles con código.  
-Me gusta trabajar tanto en el frontend como en el backend,  
-y siempre estoy aprendiendo nuevas tecnologías.
+Apasionado por crear soluciones útiles con código. Me gusta trabajar tanto en el frontend como en el backend y siempre estoy aprendiendo nuevas tecnologías.
 
 ---
 
@@ -25,8 +23,12 @@ y siempre estoy aprendiendo nuevas tecnologías.
 ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
 ![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)
 ![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
-![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
+![React](https://img.shields.io/badge/-React-222222?style=flat&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/-Angular-222222?style=flat&logo=angular&logoColor=DD0031)
+![Flutter](https://img.shields.io/badge/-Flutter-222222?style=flat&logo=flutter&logoColor=02569B)
+![Kotlin](https://img.shields.io/badge/-Kotlin-222222?style=flat&logo=kotlin&logoColor=7F52FF)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-222222?style=flat&logo=tailwindcss&logoColor=06B6D4)
+![ShadCN UI](https://img.shields.io/badge/-ShadCN-222222?style=flat&logo=shadcn&logoColor=white)
+![Supabase](https://img.shields.io/badge/-Supabase-222222?style=flat&logo=supabase&logoColor=3ECF8E)
 
 <br/>
-
----
