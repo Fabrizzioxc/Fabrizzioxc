@@ -3,8 +3,8 @@
 ```diff
 hola, soy fabrizzio 👨‍💻
 
-- desarrollador de software
- apasionado por el diseño web
- aprendiendo nuevas tecnologías todos los días
- fullstack developer & entusiasta de la programación
+- Desarrollador de Software
+· apasionado por el diseño web
+· aprendiendo nuevas tecnologías todos los días
+· fullstack developer & entusiasta de la programación
 # 💡 creatividad, código y crecimiento constante
