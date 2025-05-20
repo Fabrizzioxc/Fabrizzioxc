@@ -1,21 +1,12 @@
 ### Hola, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> Soy [Fabrizzio!](https://github.com/Fabrizzioxc/Fabrizzioxc)
 
-<table>
-  <tr>
-    <td>
-      
 ## 💻 Desarrollador de Software
 
 Apasionado por crear soluciones útiles con código.  
 Me gusta trabajar tanto en el frontend como en el backend y  
 siempre estoy aprendiendo nuevas tecnologías.
 
-   </td>
-   <td>
-     <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="120"/>
-   </td>
-  </tr>
-</table>
+---
 
 ##### 🧠 Lenguajes que uso
 
