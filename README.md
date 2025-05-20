@@ -2,9 +2,9 @@
 
 
 ```diff
-< hola! soy Fabrizzio 👨‍💻 />
+< Hola, Soy Fabrizzio 👨‍💻 />
 
-- 💻 Desarrollador de Software
+- 💻 DESARROLLADOR DE SOFTWARE
 · apasionado por el diseño web
 · aprendiendo nuevas tecnologías todos los días
 · fullstack developer & entusiasta de la programación
@@ -12,7 +12,7 @@
 
 ```
 ```
-## 🛠 &nbsp;Tech Stack
+## 🛠 STACK
 ```
 
 - 💻 &nbsp;
