@@ -2,9 +2,7 @@
 
 ## 💻 Desarrollador de Software
 
-Apasionado por crear soluciones útiles con código.  
-Me gusta trabajar tanto en el frontend como en el backend y  
-siempre estoy aprendiendo nuevas tecnologías.
+Apasionado por crear soluciones útiles con código. Me gusta trabajar tanto en el frontend como en el backend y siempre estoy aprendiendo nuevas tecnologías.
 
 ---
 
@@ -32,6 +30,3 @@ siempre estoy aprendiendo nuevas tecnologías.
 ![ShadCN UI](https://img.shields.io/badge/-ShadCN-222222?style=flat&logo=shadcn&logoColor=white)
 ![Supabase](https://img.shields.io/badge/-Supabase-222222?style=flat&logo=supabase&logoColor=3ECF8E)
 
-<p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="80" />
-</p>
