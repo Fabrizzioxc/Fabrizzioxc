@@ -6,9 +6,8 @@
 
 | 💻 Deesarrollador de Software
 
-· apasionado por el diseño web
-· aprendiendo nuevas tecnologías todos los días
-· fullstack developer & entusiasta de la programación
+· 🛠️ fullstack Developer & entusiasta de la programación
+· 👨‍💻 aprendiendo nuevas tecnologías todos los días
 # 💡 creatividad, código y crecimiento constante
 ```
 ```diff
