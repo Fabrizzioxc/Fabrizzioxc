@@ -2,7 +2,8 @@
 
 
 ```diff
-< Hola, Soy Fabrizzio 👨‍💻 />
+| < Hola, Soy Fabrizzio 👨‍💻 /> |
+
 | 💻 DESARROLLADOR DE SOFTWARE
 
 · apasionado por el diseño web
