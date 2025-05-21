@@ -1,7 +1,4 @@
-<p align="center">
-  <img height="200" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif" />
-</p>
-
+<img align="left" height="200" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif"/>
 
 
 ```diff
@@ -12,7 +9,6 @@
 · aprendiendo nuevas tecnologías todos los días
 · fullstack developer & entusiasta de la programación
 # 💡 creatividad, código y crecimiento constante
-
 ```
 ```diff
 🧠 My Tech Stack
@@ -26,4 +22,4 @@
 📦 Otras tecnologías: JSON, Git, GitHub
 
 🧩 Siempre explorando: nuevas herramientas, buenas prácticas y patrones modernos
-```
+ ```
