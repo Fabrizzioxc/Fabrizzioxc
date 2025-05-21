@@ -1,4 +1,4 @@
-<img align="left" height="180" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXVqMW9idHFtcmw2eDM0Z3NnZjY1OGliOGJzY3JwZDF0enVkcmd6ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oKmDvhO5NVEgd6SygF/giphy.gif"/>
+<img align="right" height="180" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTlqY3Ywb3Q4d2oycng3a3BveWttMG93NjVvaW1zNXdvYWJzaWdmcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y1vohJMVMtjSQxmUot/giphy.gif"/>
 
 
 ```diff
