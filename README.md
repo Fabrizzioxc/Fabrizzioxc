@@ -10,16 +10,3 @@
 · 👨‍💻 aprendiendo nuevas tecnologías todos los días
 # 💡 creatividad, código y crecimiento constante
 ```
-```diff
-🧠 My Tech Stack
-
-💻 Lenguajes principales: JavaScript, TypeScript, HTML
-
-⚛️ Frontend: React (JSX), Tailwind CSS
-
-🛠️ Backend: Node.js, Supabase
-
-📦 Otras tecnologías: JSON, Git, GitHub
-
-🧩 Siempre explorando: nuevas herramientas, buenas prácticas y patrones modernos
- ```
