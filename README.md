@@ -6,5 +6,5 @@
 
 · 🛠️ fullstack Developer & entusiasta de la programación
 · 👨‍💻 Astro / React / Nodejs
-# 💡 creatividad, código y crecimiento constante
+· 💡 creatividad, código y crecimiento constante
 ```
