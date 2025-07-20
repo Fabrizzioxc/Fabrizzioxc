@@ -2,7 +2,7 @@
 
 **Desarrollador de software**  
 
-🛠️ Creatividad e interfaces limpias
+🛠️ Creatividad e interfaces limpias <br/>
 👨‍💻 Astro · React · Node.js  
 🎨 Interfaces claras, animaciones fluidas y código limpio
 
