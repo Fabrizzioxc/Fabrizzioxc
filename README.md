@@ -1,10 +1,18 @@
+<h1 align="center" style="font-family: 'Fira Code', monospace; color: #00FFD1;">
+  &lt; Hola, soy Fabrizzio /&gt;
+</h1>
 
-```diff
- < Hola, Soy Fabrizzio /> 
+<p align="center">
+  💻 <b>Desarrollador de Software</b>  
+</p>
 
-| 💻 Desarrollador de Software
-
-· 🛠️ fullstack Developer & entusiasta de la programación
-· 👨‍💻 Astro / React / Nodejs
-· 💡 creatividad, código y crecimiento constante
-```
+<p align="center">
+  🛠️ Fullstack Developer & amante del código limpio  
+  <br> 👨‍💻 Astro · React · Node.js  
+  <br> 🚀 Creatividad + Tecnología + Crecimiento constante
+ <p align="center">
+  <img src="https://img.shields.io/badge/Astro-000000?style=flat&logo=astro&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
+</p>
+</p>
