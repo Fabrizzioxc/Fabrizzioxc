@@ -2,11 +2,11 @@
   &lt; Hola, soy Fabrizzio /&gt;
 </h1>
 
-<p align="center">
+<h2 align="center">
   💻 <b>Desarrollador de Software</b>  
-</p>
+</h2>
 
-<p align="center">
+<p align="left">
   🛠️ Fullstack Developer & amante del código limpio  
   <br> 👨‍💻 Astro · React · Node.js  
   <br> 🚀 Creatividad + Tecnología + Crecimiento constante
