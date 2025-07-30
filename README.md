@@ -5,7 +5,7 @@
 
 👨‍💻 Freelancer <br/>
 🛠️ Creatividad e interfaces limpias <br/>
-🎨 Interfaces claras, animaciones fluidas y código limpio
+🌐 aprendiendo Express
 
 ---
 
