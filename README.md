@@ -5,7 +5,7 @@
 
 👨‍💻 Freelancer <br/>
 🛠️ Creatividad e interfaces limpias <br/>
-🌐 aprendiendo Express
+🌐 Astro, React y Typescript
 
 ---
 
